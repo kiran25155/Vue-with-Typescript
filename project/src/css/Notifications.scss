@@ -1,0 +1,17 @@
+  
+#tNotification{
+    margin-left: auto;
+    margin-right: auto;
+    width:900px;
+    font-size: 20px;
+    min-height:80px;
+    text-align: center;
+    
+    border-collapse: collapse;
+}
+tr.trow:hover{
+ background-color:rgb(228, 250, 251);
+}
+.trow:nth-child(even){
+    background-color: #ffffe0;
+}

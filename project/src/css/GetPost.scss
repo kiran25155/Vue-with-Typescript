@@ -1,0 +1,46 @@
+    
+#updatePost{
+    font-size: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    min-width: 700px;
+    text-align: center;
+     max-height:10px;
+    
+}
+fieldset.update{
+    font-size: 20px;
+   border-color: brown;
+    padding: 10px;
+    min-width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+   
+}
+tr.post:hover{
+    background-color:rgb(228, 250, 251) ;
+}
+.post:nth-child(even){
+    background-color: #fffacd;
+}
+table.update{
+    font-size: 20px;
+  margin-top:-10px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  
+  
+}
+button{
+  min-width:80px;
+  min-height: 30px;
+}
+textarea{
+    font-size: 20px;
+}
+input{
+    font-size:20px;
+    width:150px;
+}

@@ -1,0 +1,26 @@
+.update{
+ 
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    max-width: 1100px;
+  }
+  button{
+    min-width:50px;
+    min-height: 30px;
+  }
+  /* tr.Application:nth-child(even){
+    background-color:rgb(245, 245, 224);
+  } */
+  tr.Application:hover{
+    background-color:rgb(228, 250, 251);
+  }
+  
+  #tupdate{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 20px;
+    color:rgb(20, 20, 103);
+     min-width: 1000px;
+  }
